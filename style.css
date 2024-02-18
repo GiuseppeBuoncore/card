@@ -1,0 +1,23 @@
+img {
+  position: relative;
+  width: 365px;
+  border-radius: 5px;
+}
+
+.container {
+  position: relative;
+  display: flexbox;
+  margin: auto;
+  height: 100px;
+  width: 400px;
+}
+
+article {
+  border: 1px solid black;
+  width: 365px;
+}
+
+a {
+  padding: 10px;
+  display: inline-block;
+}
